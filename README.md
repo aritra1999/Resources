@@ -10,5 +10,6 @@
   
 ## Resources
 1. [DL](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
-2. [Deploying Django on AWS](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
-3. [Adding custom domain to remote VW](https://youtu.be/sy4YiKeAGOM?list=PLYiSkhSmW-tTT_vIB_MS98oNbR1bDRGHS)
+2. [Deploying Django on Remote Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04#prerequisites-and-goals)
+4. [Deploying Django on AWS](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
+5. [Adding custom domain to remote VW](https://youtu.be/sy4YiKeAGOM?list=PLYiSkhSmW-tTT_vIB_MS98oNbR1bDRGHS)
